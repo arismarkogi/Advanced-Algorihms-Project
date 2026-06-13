@@ -17,6 +17,3 @@ The presentation breaks down the problem and analyzes three distinct algorithmic
 ## References
 * Nikhil Bansal, Martin Böhm, Marek Eliáš, Grigorios Koumoutsos, Seeun William Umboh (2017). *Nested Convex Bodies are Chaseable*. [arXiv:1707.05527](https://arxiv.org/abs/1707.05527)
 * Sébastien Bubeck, Bo'az Klartag Yin Tat Lee, Yuanzhi Li, Mark Sellke (2018). *Chasing Nested Convex Bodies Nearly Optimally*. [arXiv:1811.00999](https://arxiv.org/abs/1811.00999)
-
-## Author
-* **Aris Markogiannakis**
